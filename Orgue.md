@@ -21,7 +21,7 @@
 
 * P-I, P-II, P-III, P-IV
 
-### Appels:
+### Appelles:
 
 * I
 * II
