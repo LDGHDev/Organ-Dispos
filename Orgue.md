@@ -70,6 +70,7 @@
 
 #### Jeux des Anches
 * Bombarde 32'
+* Bombarde 16'
 * Basson 16'
 * Baryton 8'
 * Clairon 4'
