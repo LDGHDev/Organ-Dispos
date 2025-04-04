@@ -73,6 +73,7 @@
 * Bombarde 16'
 * Basson 16'
 * Baryton 8'
+* Trompette 8'
 * Clairon 4'
 
 ### Grand Orgue
@@ -90,6 +91,8 @@
 #### Jeux De combinaison 
 * Grosse Nasard 2'2/3
 * Gros Cornet VI
+* Plein jeu IV
+* Carillon III
 * Tierce 1'3/5
 * Septième 1'1/7
 * Neuvième 8/9'
@@ -164,6 +167,7 @@
 
 
 #### Jeux des Combinaison
+* Carillion de clôches
 * Gros Cornet VI
 * Cornet V
 * Tierce 1'3/5
