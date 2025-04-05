@@ -43,7 +43,7 @@
 * II
 * III
 
-### Octaves grandes
+### Octaves aigues
 
 * I
 * II
