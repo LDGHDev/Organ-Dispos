@@ -147,7 +147,7 @@
 
 #### Jeux de Combinaison
 * Plein Jeu VI
-* Tierce 1'1/5
+* Carillon II
 
 #### Jeux des Anches
 * Basson 16'
