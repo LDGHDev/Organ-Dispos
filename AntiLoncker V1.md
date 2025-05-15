@@ -62,5 +62,5 @@
 * 8' Voix Humaine
 * 8' Cromhorne
 
-## Jeux des Drôlles effect
+### Jeux des Drôlles effect
 * Tremolo
