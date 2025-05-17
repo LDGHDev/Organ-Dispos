@@ -63,7 +63,7 @@
 * Soubasse 32'
 * Montre 16'
 * Bourdon 16'
-* Soubasse 16'
+* ViolonCelle 8' 
 * Montre 8'
 * Flûte 8'
 * Flûte 4'
