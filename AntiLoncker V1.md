@@ -15,10 +15,8 @@
 
 ## Pédale:
 ### Jeux de Fond
-* 16' Montre
-* 16' Bourdon
-* 8'  flûte
-* 8'  Violon
+* 16' Flute Ouverturé
+* 8'  ViolonCelle
 
 ### Jeux des Anches
 * 16' Bombarde
@@ -29,7 +27,7 @@
 * 16' Bourdon
 * 8' Prestant
 * 8' Flûte Harmonique
-* 8' Viole de gambe
+* 8' Viole d'amour
 * 4' Prestant
 * 4' Flûte
 * 2' Doublette
@@ -60,7 +58,7 @@
 * 8' Trompette
 * 8' Basson-Hautbois
 * 8' Voix Humaine
-* 8' Cromhorne
+* 8' Clairon-Clarinette
 
 ### Jeux des Drôlles effect
 * Tremolo
