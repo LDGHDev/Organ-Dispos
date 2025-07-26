@@ -44,7 +44,7 @@
 ## Récit Expressif:
 ### Jeux de Fond
 * 8' Flûte Harmonique
-* 8' Salicional
+* 8' Viole de Gambe
 * 8' Voix Céleste
 * 8' Bourdon
 * 4' Fugara
